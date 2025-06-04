@@ -18,3 +18,9 @@ sudo systemctl restart ollama
 
 nvidia-smi
 ```
+
+
+```
+pip install -U ipykernel
+pip install langchain-community langchain-core
+```
